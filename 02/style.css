@@ -13,11 +13,10 @@
   background-color: #121412;
   color: #fff;
   gap: 8px;
-  font-family: "NTR", sans-serif;
+  font-family: "JetBrains Mono", monospace;
   font-size: 20px;
 }
 
-.container div input::-webkit-inner-spin-button { 
+.container div input::-webkit-inner-spin-button {
   -webkit-appearance: none;
-  
 }
